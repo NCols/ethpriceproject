@@ -1,0 +1,22 @@
+{
+  "id": "com.example.eth",
+  "title": "Ether price indicator",
+  "author": "Nicolas Collignon",
+  "description": "file://DESCRIPTION.md",
+  "changelog": "file://CHANGELOG",
+  "tagline": "One-line description",
+  "version": "0.1.1",
+  "healthCheckPath": "/",
+  "httpPort": 8000,
+  "addons": {
+    "localstorage": {}
+  },
+  "manifestVersion": 1,
+  "website": "https://ncollig.net",
+  "contactEmail": "nicolas@ncollig.net",
+  "icon": "logo.png",
+  "tags": [
+    "changeme"
+  ],
+  "mediaLinks": [ ]
+}
